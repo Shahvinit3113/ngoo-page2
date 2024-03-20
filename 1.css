@@ -1,0 +1,277 @@
+@media (max-width:400px){
+    .volunteer1{
+        padding: 0px;
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        align-content: start;
+    }
+
+  
+
+}
+
+@media (max-width:370px){
+    .bc-image2{
+        padding: 0% ;
+        width: 100% !important;
+    }
+
+    .ilname{
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+}
+
+@media (max-width:575.98px){
+
+.volunteerSub{
+    display: flex;
+    align-items: start !important;
+
+    
+}
+.volunteerGrid{
+    display: flex;
+    justify-content: center;
+    width: 100% !important;
+}
+.volunteerInfo{
+    display: block !important;
+}
+
+    .newimage{
+        flex-wrap: wrap;
+    }
+
+    .us{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pointer-image{
+        margin-right: 0px;
+    }
+    .logos{
+        padding: 0px 3px;
+    }
+
+    .p-header{
+        width: 200px;
+        font-size: 7px;
+    
+        padding-left: 10px;
+    }
+
+    /* .navs-icon{
+        font-size: 80px; 
+        justify-content: center;
+        flex-direction: row;
+        margin: 0px;
+        width: 100%;
+        padding: 0px;
+    } */
+}
+
+.p-header-text{
+    font-size: 13px;  
+    font-weight: 600; 
+    color: #fff;
+}
+
+.logos{
+    width: 200px;
+}
+
+.navs-icon{
+    width: 500px;
+    justify-content: space-between;
+    margin-left: 235px; 
+    font-size: 13px; 
+}
+
+@media (max-width:575.98px){
+    .navs-icon{
+        font-size: 10px; 
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px;
+        width: 70%;
+    }
+}
+
+@media (min-width:576px) and (max-width: 1024px) {
+    .navs-icon{
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        margin-left: 130px;
+        width: 50%;
+    }
+
+    
+
+    .gallery div img{
+        margin: 0px;
+        width: 220px;
+        height: 200px;
+    }
+}
+
+.header2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#carouselExampleFade{
+    width: 100%;
+    
+}
+
+@media (max-width:576px) {
+
+
+    .header2{
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
+    .donate{
+        flex-direction: column;
+        padding: 5px;
+        align-items: center;
+    }
+    
+    #carouselExampleFade{
+        height: 80vh;
+    }
+
+    #carouselExampleFade  div div img{
+        height: 80vh;
+
+    }
+
+    .cards{
+        flex-wrap: wrap;
+    }
+
+    .cards div{
+        margin: 5px;
+    }
+
+    .bcmain{
+       width: 100%;
+       height: 500px;
+       display: flex;
+       align-items: center;
+       
+    }
+
+    .bc-image{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 300px;
+        
+    }
+
+
+    .bc-image1{
+        
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+   
+
+    .p-bar{
+        width: auto;
+    }
+   
+
+    .bc-image div img{
+        height: 200px;
+        width: 200px;
+    }
+
+    .gallery div img{
+        margin: 0px;
+        width: 200px;
+        height: 180px;
+    
+    }
+
+    .gallery div{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .textopacitybg{
+        display: none;
+    }
+
+
+
+    .ourgallery{
+      
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+
+
+}
+
+@media (min-width:576px) and (max-width: 1024px) {
+    #carouselExampleFade{
+        width: 100%;
+        height: 80vh;
+    }
+
+    #carouselExampleFade  div div img{
+        height: 80vh;
+        display: flex;
+        
+    }
+
+    .volunteer-main{
+        margin-top: 120px;
+        display: flex;
+        padding-left:95px ;
+    }
+
+    .volunteer{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .cards{
+        
+        display: flex;
+        flex-wrap: wrap;
+        padding: 50px;
+     
+    }
+
+    .cards div{
+        margin: 5px;
+    }.gallery div{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        /* padding-left: 20px; */align-items: center;
+    }
+
+    .footer-earth{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+}
+
